@@ -1,0 +1,83 @@
+public:: false
+
+- ¿Qué es [[CRM]]?
+- ## Presentación
+	- Hola. Buenos días. Soy Miguel Angel Huamán, consultor CRM en Dígito.
+	- Como Carla te habrá comentado, Dígito es una empresa que ofrece soluciones basadas en tecnología. Hemos conseguido grandes clientes como Indecopi, MiBanco, TKambio y muchos más.
+	- Para lograr esto, nuestra área comercial se ha especializado en el uso del CRM de HubSpot. El cual nos ayuda a mejorar el seguimiento de las ventas.
+	- Como puedes ver en mi pantalla, toda la información de nuestros contactos está ordenada y disponible para nuestros agentes comerciales.
+	- Cada uno de ellos sabe cuándo y cuántas veces se está llamando a nuestros clientes. Pero lo más importante, han registrado en el CRM sobre qué han hablado.
+	- Si han agendado una reunión. Si se ha enviado una propuesta. Si se está esperando una respuesta. Toda esa información la registramos en HubSpot.
+	- Por ejemplo, veamos tu contacto, Evelyn Carrillo. Aquí señala que fue asignado a Helen. Ella te envió un correo la semana pasada. Luego te llamó Carla y finalmente recibiste un correo de Roberto con el enlace para atender a esta reunión en Microsoft Teams.
+	- Un dato interesante más. HubSpot indica que éste es el anuncio de Facebook al que le hiciste clic y dejaste tus datos en este formulario.
+	  id:: 61f97d93-2c8c-4f1d-baef-d8deec9b1b15
+	- Nosotros somos partners de HubSpot en Perú. Nuestro trabajo es escoger las herramientas adecuadas de HubSpot y personalizarlas para tu negocio. Así te ayudamos a vender mejor.
+	- Para lograr esto, necesitamos escuchar sobre tu proceso de ventas. Básicamente queremos saber cómo y a quién le vendes. Te escuchamos Evelyn.
+-
+- ## Beneficios CRM
+	- Nos ayuda a vender más.
+	- Nos ayuda a tomar mejores decisiones.
+-
+- ## Características CRM
+	- Centralizar todos los datos de contacto.
+	- Trazabilidad de ventas
+-
+- ## Ejemplos
+	- Dashboard de ventas
+	- CRM para MWF
+	- CRM para Koonsult
+-
+- ## Kapitalizate Ya
+- tenemos herramientas paranproepectos
+- termine conviertiendo en cliente
+- no tiene presupuesto, o siplemtente está preguntando.
+-
+- Intermediarios que brindan préstamos hipotecarios.
+- 4 personas.
+- 2 contactos inicial. A través de redes sociales.
+- ¿Por qué los clientes fueron aprobados o rechazados?
+-
+- Un paso del CRM
+- 300 llamadas al día.
+- Lunes a sábado.
+- 12 a 20 prospectos cerrados.
+- 30 préstamos al mes.
+-
+- flujo de ventas
+- diseñada para instalar y configurar
+- en funcion a tus etapas de venta
+- por ejeplo, estas en una reunion propgramada
+- pendiente de propuesta
+- seguimiento hot y a largo plazo
+- la gerencia está reestructuran y ¿podemos verlo en 3 meses?
+- Documentar por qué perdiste un negocio.
+- Recuperar prospecto que eprdiste
+- Filtro de los que perdimos el año pasado
+- Armarte de una base de  datos, gestionar los negocios.
+-
+- Manejamos estreguias digitales para ventas
+- desarolamos aplicaones
+-
+- ## INPAC
+- Busca desarrollo de ventas
+- Ya tienen una web y una fan page
+- Cero retorno
+- Clientes. empresas que se dedican a trnasportar
+- Construyen a medida
+- Recomendaciones porque tienen años en el mercado.
+- Trabajan con concesionarios de camiones.
+- Buscan nuevos clientes porque la compra no es recurrente.
+- Las carrocerías tienen 5 años de promedio.
+- 2 Años de garantía.
+- Ventas en OLX
+- Ya han estado en Cámara de Comercio.
+- Local para 20 y producen 5
+-
+- ## Versión gratuita
+- 1 fan page
+- 1 pag web
+- 10 campos personalizados
+- 5 plantillas
+- enmascarar llamada
+- capacitamos hasta 12 personas
+- El RUC se crea como personalizado

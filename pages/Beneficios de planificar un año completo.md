@@ -1,0 +1,4 @@
+- Beneficios
+	- Planificar te provee una motivación y una dirección muy clara.
+	- Definir objetivos te ayuda a medir tu progreso.
+	- Reduce tu incertidumbre y te indica qué debes hacer para lograr lo que deseas.

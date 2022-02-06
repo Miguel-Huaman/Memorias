@@ -1,0 +1,5 @@
+- ¿Qué es el que **quiero** este año?
+- ¿Qué es lo que **necesito** hacer para conseguirlo?
+- ¿Qué cosas debería **evitar**?
+- ¿En qué **proyectos** debo enfocarme?
+- ¿Qué **hábitos** debo cultivar?

@@ -1,0 +1,5 @@
+- ## Libros de economía
+	- En deuda - David Graeber
+-
+- ## Psicología de los consumidores
+	- [[Propensión marginal al consumo]]

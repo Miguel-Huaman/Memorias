@@ -1,0 +1,34 @@
+- ## Crear, Medir y Aprender
+- La actividad fundamental de una startup es:
+	- Convertir ideas en productos.
+	- Medir cómo responden los consumidores.
+	- Aprender cuándo pivotar o perseverar.
+- Todos los procesos de creación de startups exitosas deberían orientarse a acelerar este circuito de feedback.
+-
+- ## Contabilidad de la innovación
+- Para mejorar los resultados empresariales y contabilizar la innovación es necesario centrarse en los aspectos aburridos:
+	- ¿Cómo medimos el progreso?
+	- ¿Cómo establecemos hitos?
+	- ¿Cómo priorizamos tareas?
+- Esto requiere un nuevo tipo de contabilidad diseñada para startups, y para aquellos a los que rinden cuentas.
+-
+- ## Ver, dirigir, acelerar
+-
+- ## Las raíces del método Lean Startup
+- El método **Lean Startup toma su nombre de la revolución del Lean manufacturing** que Taichi Ohno y Shigeo Shingo desarrolaron en Toyota. El pensamiento Lean altera radicalmente la forma de organizar las cadenas de oferta y los sistemas de producción. Entre sus principios están el diseño del conocimiento y la creatividad de los trabajadores, la reducción de las dimensiones de los lotes, la producción just-in-time y el control de inventarios, y la «aceleración del tiempo del ciclo». Enseña al mundo la diferencia entre las actividades que crean valor y el derroche, y muestra cómo incorporar calidad a los productos.
+- ***
+- Una empresa en la que trabajé tuvo la desgracia de prever una aceptación significativa por parte de los consumidores, en millones, de uno de sus nuevos productos.
+- Impulsada por un lanzamiento a lo grande, la empresa ejecutó su plan. Desgraciadamente, los consumidores no acudieron en masa a comprar el producto. Incluso peor, la empresa había invertido en infraestructura, contratación y apoyo masivos para lidiar con la afluencia de consumidores que esperaban. Cuando los consumidores no se materializaron, la empresa se había comprometido tanto que no se pudo adaptar a tiempo. Habían «logrado el fracaso», ejecutando rigurosamente, con fe y éxito, un plan que resultó ser totalmente defectuoso.
+-
+- snaptax
+	- «¿Sería posible hacer todo el proceso de declaración de impuestos desde el teléfono?».
+- Una startup de siete mil personas
+	- Intuit invirtió en sistemas que aumentaban la velocidad a la cual se podían realizar las pruebas, desplegarlas y analizarlas.
+	- Como dice Cook: «Desarrolar esos sistemas de experimentación es responsabilidad del directivo sénior; tiene que introducirlos el líder. Se trata de que los líderes dejen de jugar a ser el César y meter baza en todas las ideas y, en su lugar, creen la cultura y los sistemas necesarios para que los equipos puedan moverse e innovar a la velocidad del sistema de experimentación».
+	- **No puedes llevar el aprendizaje al banco; no puedes gastarlo o invertirlo.** No se lo puedes dar a tus clientes ni devolvérselo a tus socios. ¿Es una sorpresa que el conocimiento tenga tan mala prensa en los círculos emprendedores y de negocios?.
+- HABLANDO CON LOS CLIENTES
+-
+- cuando dices que el cielo es el límite
+- creo que sí es cierto
+-
+- Dígito es la empresa que me hubiera gustado trabajar a mi.

@@ -1,0 +1,4 @@
+- Soy un ser humano nivel 30.
+- A los 29 decidí cambiar de carrera profesional. Ahora soy feliz cada día que trabajo.
+- TODO Definir áreas a mejorar
+-

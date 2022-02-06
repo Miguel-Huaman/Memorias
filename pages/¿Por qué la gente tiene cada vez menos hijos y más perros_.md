@@ -1,0 +1,9 @@
+- https://www.youtube.com/watch?v=2A4XWswN5lk
+- 39:21
+	- Cuando vivimos en una [[Sociedad]], en la que se trata a los animales como personas. Se acaba tratando a las personas como animales.
+- 51:01
+	- Yo soy superior al perro. El perro no es mi amigo. El perro no es mi hijo. El perro es mi mascota y evidentemente yo le quiero.
+	- Pero el perro no deja de ser una suerte de parásito simpático que a través de sus cucamonas y de su ternura, nos obliga a alimentarle.
+- 51:50
+	- -¿Por qué no tienen perros?
+	  -¿Para qué quieres un perro si no tienes rebaño?"

@@ -1,0 +1,5 @@
+- [[Definir objetivos por cada categoría]]
+- [[Crear hábitos por cada categoría]]
+- [[Crea reglas para ti]]
+- [[Pensar en nuevos modos de pensar]]
+- [[Agrupar objetivos]]

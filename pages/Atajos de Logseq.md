@@ -1,0 +1,2 @@
+- ctrl + flecha arriba para contraer
+- ctrl + flecha abajo para expandir

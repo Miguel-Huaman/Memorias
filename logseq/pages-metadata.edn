@@ -1,51 +1,265 @@
-[{:block/name "a",
+[{:block/name "5 preguntas más importantes",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "_ministro de cultura_ sin cultura",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "a",
   :block/created-at 1644102579280,
   :block/updated-at 1644102579280}
+ {:block/name "agrupar objetivos",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "atajos de logseq",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "automatización",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "b",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "beneficios de planificar un año completo",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "c",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "capital humano",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "capitalismo",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
  {:block/name "card",
   :block/created-at 1644102579280,
   :block/updated-at 1644102579280}
+ {:block/name "categorías de la vida",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "china",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "class-run",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "comandos de git",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "comunismo",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "contents",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "correr",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "crea reglas para ti",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "crear clave gpg",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "crear hábitos por cada categoría",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "criptomonedas",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "crm",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "definir objetivos por cada categoría",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "dgt",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "doing",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
  {:block/name "done",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "dígito",
+  :block/created-at 1644104203386,
+  :block/updated-at 1644104735504}
+ {:block/name "economía",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "el método lean startup",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "el problema de invertir dinero en publicidad",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "emprendimiento",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "escritura",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "estado",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
  {:block/name "favorites",
   :block/created-at 1644102579280,
   :block/updated-at 1644102579280}
- {:block/name "feb 5th, 2022",
-  :block/created-at 1644019200000,
-  :block/updated-at 1644019200000}
+ {:block/name "filosofía experimental",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "finanzas personales automatizadas",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "frases - antivacunas",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "frases - proyecto lr",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "git",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "github",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "guion - hola mundo",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
  {:block/name "in-progress",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "javascript",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "la sociedad nació de un insulto",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
  {:block/name "later",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "logseq",
+  :block/created-at 1644104988371,
+  :block/updated-at 1644105032406}
+ {:block/name "límites power platform",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "mi pasado",
+  :block/created-at 1644105186200,
+  :block/updated-at 1644105208893}
+ {:block/name "muchas palabras no existen",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "mwf - automatización",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "música - bd",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "nadie decidió",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "neoliberalismo",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "no sueñes",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "nombres de lugares - proyecto lr",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "nombres de personajes - proyecto lr",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "notion",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
  {:block/name "now",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "organización",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "organización personal",
+  :block/created-at 1644104435965,
+  :block/updated-at 1644104774511}
+ {:block/name "pasos para planificar el año",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "pauta pausada",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "pensar en nuevos modos de pensar",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "planificar un año completo",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "power automate desktop",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "presentación de crm",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "productividad",
   :block/created-at 1644102522840,
-  :block/updated-at 1644102522840}
+  :block/updated-at 1644105272991}
+ {:block/name "propensión marginal al consumo",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "proyecto lr",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "proyecto web personal",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
+ {:block/name "readme",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "respeto a pensar diferente",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "socialista",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "sociedad",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "tareas pendientes",
+  :block/created-at 1644104691531,
+  :block/updated-at 1644104944565}
+ {:block/name "tareas terminadas",
+  :block/created-at 1644104776717,
+  :block/updated-at 1644105151534}
+ {:block/name "the perfect life - isaac joshi",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "todo",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "uniendo sonrisas",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "wait",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
  {:block/name "waiting",
   :block/created-at 1644102579280,
   :block/updated-at 1644102579280}
+ {:block/name "yo",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name "¿china es comunista_",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
+ {:block/name
+  "¿por qué la gente tiene cada vez menos hijos y más perros_",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644105378865}
+ {:block/name "¿por qué quieres lo que quieres_",
+  :block/created-at 1644105378863,
+  :block/updated-at 1644105378863}
  {:block/name "índice",
   :block/created-at 1644102507791, 
   :block/updated-at 1644102519134}]

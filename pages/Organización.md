@@ -1,0 +1,4 @@
+- LATER Ordenar íconos del escritorio
+- LATER Planchar camisas
+- LATER Organizar tweets en [[Logseq]].
+- DONE Agregar canciones a [[Música - BD]] y actualizar la playlist diaria.

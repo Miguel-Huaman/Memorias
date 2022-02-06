@@ -1,0 +1,4 @@
+- Tu tiempo es valioso. No lo desperdicies. Entrena un robot. Enséñale a imitar todas tus tareas repetitivas.
+- Automatizar es básicamente "Entrenar a tu robot".
+- ## Proyectos personales
+	- [[Finanzas personales automatizadas]]

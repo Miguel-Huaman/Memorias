@@ -1,0 +1,2 @@
+- Te ayuda a planificar diariamente, semanalmente o mensualmente.
+- Cada objetivo contiene subcategorías y hábitos que inician accionables.

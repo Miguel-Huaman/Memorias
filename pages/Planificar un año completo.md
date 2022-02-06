@@ -1,0 +1,5 @@
+- Enlace: https://www.youtube.com/watch?v=WDO3NgKH9Fs
+- [[Beneficios de planificar un año completo]]
+- [[5 Preguntas más importantes]]
+- [[Categorías de la vida]]
+- [[Pasos para planificar el año]]

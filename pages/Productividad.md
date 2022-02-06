@@ -1,1 +1,11 @@
-- test
+- La productividad es la administración del tiempo.
+-
+- ## Proyectos personales
+	- [[Planificar un año completo]]
+	- [[Organización personal]]
+	- [[Mi pasado]]
+	-
+- ## Pendientes
+- {{query (and (todo later) [[Productividad]]) }}
+  query-table:: true
+-

@@ -1,0 +1,2 @@
+- Un "Sistema de control de versiones" es como escribir la bitácora de un capitán.
+- [[Comandos de Git]]

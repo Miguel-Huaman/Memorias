@@ -1,0 +1,8 @@
+- Tengo diferentes tipos de ingresos. Realizo movimientos bancarios y en efectivo. Con moneda local y extranjera. Necesito simplificar mis finanzas personales.
+-
+- ## Pasos
+- ### 1. AirTable
+	- Colocar manualmente los datos de ingresos y egresos
+- ### 2. Coupler
+- ### 3. Google Sheets
+- ### 4. Apps Scripts

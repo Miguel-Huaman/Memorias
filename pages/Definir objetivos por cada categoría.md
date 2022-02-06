@@ -1,0 +1,4 @@
+- Tipos de objetivos:
+	- Objetivos iniciales
+	- Objetivos finales
+- Los objetivos deben ser posibles de cumplir

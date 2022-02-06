@@ -1,0 +1,5 @@
+- Salud
+- Riqueza, [[Economía]]
+- Social
+- Emocional
+- Pasatiempos

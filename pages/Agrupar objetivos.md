@@ -1,0 +1,4 @@
+- Adquirir
+- Organizar
+- Establecer
+- Mejorar

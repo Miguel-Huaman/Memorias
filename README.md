@@ -1,1 +1,3 @@
 # Memorias
+
+ideas sueltas

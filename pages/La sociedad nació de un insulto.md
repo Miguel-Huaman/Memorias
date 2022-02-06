@@ -1,0 +1,4 @@
+- https://www.youtube.com/watch?v=IDC1pZGdRrg
+	- 1:14:28
+- La sociedad se fundó cuando el primer conflicto se resolvió con un insulto en lugar de con una pedrada.
+-
