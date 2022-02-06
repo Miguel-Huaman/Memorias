@@ -1,3 +1,5 @@
+public:: true
+
 - ## Temas principales
 	- [[Productividad]]
 	- [[Sociedad]]
