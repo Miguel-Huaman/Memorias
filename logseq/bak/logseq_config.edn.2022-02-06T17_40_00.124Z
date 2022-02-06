@@ -92,7 +92,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:editor/follow-link "alt+enter", :go/search "ctrl+f", :go/search-in-page "shift+ctrl+f"}
+ :shortcuts {:editor/follow-link "alt+enter"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -168,7 +168,7 @@
  :feature/enable-journals? false
  :default-home {:page "Índice"}
  :journal/page-title-format "dd-MM-yyyy"
- :favorites ["por esta razón no encuentras trabajo" "Escribir guiones" "Dgt" "Tareas pendientes" "Índice"]
+ :favorites ["Dgt" "Tareas pendientes" "Índice"]
  :publishing/all-pages-public? true
  :feature/enable-timetracking? false
 

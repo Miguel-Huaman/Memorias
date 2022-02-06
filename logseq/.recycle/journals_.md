@@ -1,4 +1,2 @@
-public:: false
-
 - DONE Migración de "Asentamiento-de-ideas"
 - [[06-02-2022]]

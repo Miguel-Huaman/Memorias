@@ -1,2 +1,5 @@
 - [[Logseq]]
 - Calendario del pasado personal
+- [[Galería de imágenes]]
+- [[Escribir guiones]]
+-
