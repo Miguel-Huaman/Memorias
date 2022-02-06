@@ -82,9 +82,6 @@
  {:block/name "done",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
- {:block/name "dígito",
-  :block/created-at 1644104203386,
-  :block/updated-at 1644104735504}
  {:block/name "economía",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
@@ -204,7 +201,7 @@
   :block/updated-at 1644105378864}
  {:block/name "productividad",
   :block/created-at 1644102522840,
-  :block/updated-at 1644105272991}
+  :block/updated-at 1644105820618}
  {:block/name "propensión marginal al consumo",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}

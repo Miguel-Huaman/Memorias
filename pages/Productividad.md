@@ -3,6 +3,7 @@
 - ## Proyectos personales
 	- [[Planificar un año completo]]
 	- [[Organización personal]]
+	- [[Logseq]]
 	- [[Mi pasado]]
 	-
 - ## Pendientes
