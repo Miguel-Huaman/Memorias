@@ -34,8 +34,8 @@
 
 .dark-theme,
 html[data-theme='dark'] {
-  --ls-primary-background-color: #002b36;
-  --ls-secondary-background-color: #023643;
+  --ls-primary-background-color: #001216;
+  --ls-secondary-background-color: #02161B;
   --ls-tertiary-background-color: #08404f;
   --ls-quaternary-background-color: #094b5a;
   --ls-table-tr-even-background-color: #03333f;
