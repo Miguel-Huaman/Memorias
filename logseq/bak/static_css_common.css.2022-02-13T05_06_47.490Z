@@ -34,19 +34,11 @@
 
 .dark-theme,
 html[data-theme='dark'] {
-<<<<<<< HEAD
   --ls-primary-background-color: #333a3b;
   --ls-secondary-background-color: #1c2122;
   --ls-tertiary-background-color: #343738;
   --ls-quaternary-background-color: #2b3233;
   --ls-table-tr-even-background-color: #2c2d2e;
-=======
-  --ls-primary-background-color: #001216;
-  --ls-secondary-background-color: #02161B;
-  --ls-tertiary-background-color: #08404f;
-  --ls-quaternary-background-color: #094b5a;
-  --ls-table-tr-even-background-color: #03333f;
->>>>>>> c0363108255ca4b0fed11413c8df145fc578f7f0
   --ls-active-primary-color: #8ec2c2;
   --ls-active-secondary-color: #d0e8e8;
   --ls-block-properties-background-color: #2b3436;
