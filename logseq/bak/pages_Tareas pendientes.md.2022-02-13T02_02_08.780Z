@@ -1,0 +1,17 @@
+public:: false
+
+- {{query _later}}
+  query-table:: true
+  query-sort-by:: block
+  query-sort-desc:: false
+- ## Dígito [[Dgt]]
+- {{query (and (todo now) [[dgt]]) }}
+  query-table:: true
+  query-sort-by:: block
+  query-sort-desc:: true
+- {{query (and (todo later) [[dgt]]) }}
+  query-table:: true
+- {{query (and (todo todo) [[dgt]]) }}
+- ***
+- {{query (todo doing now)}}
+- ***

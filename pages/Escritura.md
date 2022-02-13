@@ -1,5 +1,3 @@
-- [[Logseq]]
-- Calendario del pasado personal
-- [[Galería de imágenes]]
+- > _**El ser humano no es una cosa entre las cosas.**
+  Roxana Kreimer_
 - [[Escribir guiones]]
--

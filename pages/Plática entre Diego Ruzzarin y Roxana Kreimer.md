@@ -1,0 +1,11 @@
+- {{youtube https://www.youtube.com/watch?v=IDC1pZGdRrg}}
+	- {{youtube-timestamp 17:13}}
+		- [[Neoliberalismo]]
+	- {{youtube-timestamp 50:58}}
+		- [[Capital Humano]]
+	- {{youtube-timestamp 1:14:28}}
+		- [[La sociedad nació de un insulto]]
+	- {{youtube-timestamp 17:12}}
+		- [[Muchas palabras no existen]]
+	- {{youtube-timestamp 1:07:58}}
+		- [[Respeto a pensar diferente]]

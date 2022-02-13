@@ -1,11 +1,20 @@
-public:: true
-
-- ## Temas principales
+- ## Mi filosofía de vida
+	- Escribe todo lo que no desees olvidar.
+	- Planifica todo lo que desees alcanzar.
+	- #Filosofía Establecer metas #Importante #No-Urgente
+- ## Temas que me gusta conversar
 	- [[Productividad]]
-	- [[Sociedad]]
-	- [[Economía]]
+	- [[Web]]
+	- [[Filosofía]]
 	- [[Escritura]]
-
+	- [[Automatización]]
+-
+- ## Temas de los que no sé nada pero me gusta escuchar
+	- [[Blockchain]]
+	- [[Geopolítica]]
+	- [[Economía]]
+-
 - ## Proyectos
-    - Sincronización con Android
-
+	- Utilizar Logseq como un sistema de administración del conocimiento.
+	- Sincronizar Logseq, Obsidian, GitHub, OneDrive y Markor.
+	- Escribir artículos y publicarlos en un blog.

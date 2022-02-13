@@ -1,6 +1,10 @@
 - ## Intro
+- Cada vez que postulas a un puesto de trabajo. Estás compitiendo  con personas que están mucho mejor preparadas que tú. Entonces ¿Cómo vas a destacar entre ellos? ¿Cómo vas a convencer al entrevistador para que te elija por encima del resto?
+- Los reclutadores también son personas.
 -
-- {{renderer :wordcount_xxakzmr}}
+- Hola Mundo y bienvenidos a este video. Hoy quiero compartir con ustedes unos consejos que a mí me han servido para
+-
+- {{renderer :wordcount_hugdsfj}}
 	- ### ¿Por qué a ti?
 		- ¿Por qué deberían a entrevistarte a ti?
 		- Si hay otros 100 candidatos que tienen el mismo CV. Incluso podrían ser mejores que tú.
@@ -41,7 +45,8 @@
 		- "Creer en un mismo" No es igual a "Presumir"
 		- Debes trabajar en el síndrome del impostor.
 			- Enlace a otro video.
-		-
+	- Fin
+		- El valor está en tu autenticidad
 -
 - ## Fuentes
 	- Hablar de uno mismo es intrínsecamente satisfactorio.

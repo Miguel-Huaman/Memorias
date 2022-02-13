@@ -1,5 +1,3 @@
-- https://www.youtube.com/watch?v=IDC1pZGdRrg
-	- 1:07:58
 - > Es como una pareja. Ante el primero conflicto ya la pareja se separa. No. No. ¡Pará! No es así... Por su puesto hay un límite...
-- > El respeto de que el otro puede pensar diferente, y aún así, yo puedo dialogar con él es parte de la evidencia de que la educación de uno mismo ha comenzado.
-- > Una persona no está educada si no puede escuchar a otra pensar distinto y aún así seguir conversando en condiciones mínimas de diálogo por supuesto.
+- > El respeto de que el otro puede pensar diferente, y aún así, yo puedo dialogar con él, es parte de la evidencia de que la educación de uno mismo ha comenzado.
+- > Una persona no está educada si no puede escuchar a otra pensar distinto y aún así seguir conversando, en condiciones mínimas de diálogo por supuesto.

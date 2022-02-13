@@ -1,2 +1,2 @@
-- DONE Migración de "Asentamiento-de-ideas"
-- [[06-02-2022]]
+- > _**Si no lees libros, vas a decir que muchas palabras no existen.**
+  Diego Ruzzarin_

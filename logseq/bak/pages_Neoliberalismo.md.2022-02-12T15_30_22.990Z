@@ -1,0 +1,4 @@
+- https://www.youtube.com/watch?v=IDC1pZGdRrg
+	- 17:03
+- ## Definición
+	- La instrumentalización de la democracia para defender el capitalismo.

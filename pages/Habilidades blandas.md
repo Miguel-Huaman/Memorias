@@ -1,0 +1,14 @@
+- ## ¿Dónde aprender?
+	- https://platzi.com/habilidades-blandas/
+-
+- ## ¿Qué aprender?
+	- Aprender a aprender
+	- Gestión del tiempo
+	- Inteligencia emocional
+	- Liderazgo
+	- Trazar y cumplir objetivos
+	- Crear equipos de alto rendimiento
+-
+- ## Cursos
+	- [[Metas y áreas de mi vida]]
+	- [[Priorización de tareas]]

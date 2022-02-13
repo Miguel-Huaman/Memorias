@@ -1,2 +1,0 @@
-- [[Tareas pendientes]]
-- [[Tareas terminadas]]

@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -167,8 +167,8 @@
  :ref/linked-references-collapsed-threshold 50
  :feature/enable-journals? false
  :default-home {:page "Índice"}
- :journal/page-title-format "dd-MM-yyyy"
- :favorites ["por esta razón no encuentras trabajo" "Escribir guiones" "Dgt" "Tareas pendientes" "Índice"]
+ :journal/page-title-format "yyyy/MM/dd"
+ :favorites ["Índice" "Tareas pendientes"]
  :publishing/all-pages-public? true
  :feature/enable-timetracking? false
 

@@ -1,0 +1,6 @@
+- https://platzi.com/clases/1749-gestion-tiempo/24666-metas-y-areas-de-mi-vida/
+- 1:01
+	- Si ya tienes las áreas principales y ya sabes a dónde vas, todo esto se debe transformar en actividades. Si lo dejas como un sueño lindo o como los deseos al año nuevo pues en realidad no vas a hacer nada con ello. Debemos transformar en actividades específicas, y esa actividades les debemos poner fecha y deben ser parte de tu agenda
+- Si ya sabes a dónde vas, debes crear tareas específicas, las cuales deben colocarse en la agenda con una fecha.
+	- Áreas > Metas > Actividades
+-
