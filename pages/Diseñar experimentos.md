@@ -1,0 +1,10 @@
+- Antes de salir al campo, debemos diseñar nuestros experimentos
+- ¿Por qué necesitamos diseñarlos?
+	- Estructurar nuestra evaluaciones porque las situaciones en el mundo real son muy incontrolables.
+	- Controlar y limitar las variables. Debemos hacer una trazabilidad de los cambios.
+	- Hacer más fácil la captura de resultados.
+	- Generar foco. Ir directamente a los experimentos que más resultado generan.
+	- Mostrar resultados.
+-
+-
+- Santiago Peña

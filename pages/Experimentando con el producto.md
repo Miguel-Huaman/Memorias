@@ -1,0 +1,4 @@
+- En el modelo del método Lean Startup, un experimento es más que una simple investigación teórica; también es un primer producto. Si este o cualquier otro experimento tiene éxito, permite al directivo empezar con su campaña: conseguir a los primeros usuarios, añadir trabajadores a cada nuevo experimento o iteración y, finalmente, empezar a crear el producto.
+	- Cuando el producto esté a punto para ser distribuido, ya habrá consumidores consolidados.
+	- Tendrá solucionados los problemas reales y ofrecerá una especificación detalada de por qué necesita crearse.
+	- A diferencia de la planificación estratégica tradicional o del proceso de investigación de mercado, esta especificación estará enraizada en el feedback de lo que está funcionando hoy, en lugar de lo que se anticipa que puede funcionar mañana.

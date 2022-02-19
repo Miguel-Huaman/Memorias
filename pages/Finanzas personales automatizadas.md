@@ -1,8 +1,20 @@
-- Tengo diferentes tipos de ingresos. Realizo movimientos bancarios y en efectivo. Con moneda local y extranjera. Necesito simplificar mis finanzas personales.
+- Tengo diferentes tipos de ingresos. Realizo movimientos bancarios y en efectivo. Con moneda local y extranjera... Necesito simplificar la administración de mis finanzas personales.
 -
 - ## Pasos
 - ### 1. AirTable
-	- Colocar manualmente los datos de ingresos y egresos
+	- Colocar manualmente los datos de ingresos y egresos.
+	- AirTable permite filtrar y ordenar los rápidos rápidamente.
+	- Es mucho más práctico que Excel.
+	- Tiene muchas funciones premium, pero las gratuitas son muy buenas.
 - ### 2. Coupler
+	- Exporta los datos de AirTable.
+	- Importa en un Google Sheets.
+	- Tiene un límite 100 automatizaciones por mes.
 - ### 3. Google Sheets
+	- Realiza cálculos complejos que AirTable no puede hacer.
+	- Personaliza gráficos estadísticos.
+	- Personaliza los datos a mostrar en las tablas.
 - ### 4. Apps Scripts
+	- Puede enviar hasta 100 correos por día.
+	- 200kb max por correo.
+	- 20 Triggers max

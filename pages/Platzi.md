@@ -6,8 +6,9 @@ public:: false
 	- Termina el 31 de Marzo
 -
 - ## Escuelas
-	- ### [[Habilidades blandas]]
-	- ### [[Product Design]]
-	- ### [[Finanzas e inversiones]]
-	- ### [[Marketing Digital]]
+	- [[Habilidades blandas]]
+	- [[Product Design]]
+	- [[Finanzas e inversiones]]
+	- [[Marketing Digital]]
+	- [[Probar tus Ideas: Prototipos y Testing]]
 -

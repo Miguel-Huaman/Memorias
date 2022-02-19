@@ -1,7 +1,4 @@
-[{:block/name "06-02-2022",
-  :block/created-at 1644181700809,
-  :block/updated-at 1644181700809}
- {:block/name "2022",
+[{:block/name "2022",
   :block/created-at 1644717774601,
   :block/updated-at 1644717774601}
  {:block/name "2022/02",
@@ -19,27 +16,30 @@
  {:block/name "2022/02/13",
   :block/created-at 1644710400000,
   :block/updated-at 1644710400000}
+ {:block/name "2022/02/14",
+  :block/created-at 1644847131401,
+  :block/updated-at 1644875028803}
  {:block/name "5 preguntas más importantes",
   :block/created-at 1644105378863,
   :block/updated-at 1644105378863}
- {:block/name "_ proyectos personales",
-  :block/created-at 1644717774602,
-  :block/updated-at 1644717774602}
  {:block/name "_ministro de cultura_ sin cultura",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
  {:block/name "a",
   :block/created-at 1644102579280,
   :block/updated-at 1644102579280}
+ {:block/name "actualizar la definición de _bien y mal_",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
  {:block/name "agrupar objetivos",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
  {:block/name "atajos de logseq",
   :block/created-at 1644105378864,
-  :block/updated-at 1644183064962}
+  :block/updated-at 1644762232399}
  {:block/name "automatización",
   :block/created-at 1644105378864,
-  :block/updated-at 1644105378864}
+  :block/updated-at 1644763358470}
  {:block/name "b",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
@@ -48,7 +48,7 @@
   :block/updated-at 1644105378864}
  {:block/name "blockchain",
   :block/created-at 1644717774599,
-  :block/updated-at 1644717774599}
+  :block/updated-at 1644944318340}
  {:block/name "c",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
@@ -75,7 +75,7 @@
   :block/updated-at 1644105378864}
  {:block/name "contents",
   :block/created-at 1644102579281,
-  :block/updated-at 1644185108177}
+  :block/updated-at 1644853055893}
  {:block/name "correr",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
@@ -90,10 +90,13 @@
   :block/updated-at 1644105378864}
  {:block/name "criptomonedas",
   :block/created-at 1644105378864,
-  :block/updated-at 1644105378864}
+  :block/updated-at 1644944406588}
  {:block/name "definir objetivos por cada categoría",
   :block/created-at 1644105378863,
   :block/updated-at 1644105378863}
+ {:block/name "diálogos - proyecto lr",
+  :block/created-at 1644852707331,
+  :block/updated-at 1644854057320}
  {:block/name "doing",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
@@ -112,6 +115,9 @@
  {:block/name "emprendimiento",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
+ {:block/name "erlang",
+  :block/created-at 1645144754503,
+  :block/updated-at 1645144754503}
  {:block/name "escribir guiones",
   :block/created-at 1644181700808,
   :block/updated-at 1644181700808}
@@ -138,19 +144,22 @@
   :block/updated-at 1644717774598}
  {:block/name "finanzas personales automatizadas",
   :block/created-at 1644105378865,
-  :block/updated-at 1644105378865}
+  :block/updated-at 1644764823323}
  {:block/name "frases - antivacunas",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
  {:block/name "frases - proyecto lr",
   :block/created-at 1644105378863,
-  :block/updated-at 1644105378863}
+  :block/updated-at 1644852878186}
+ {:block/name "funcionalidades de logseq",
+  :block/created-at 1644762949688,
+  :block/updated-at 1644762971175}
  {:block/name "galería de imágenes",
   :block/created-at 1644181700808,
   :block/updated-at 1644181700808}
  {:block/name "geopolítica",
   :block/created-at 1644717774600,
-  :block/updated-at 1644717774600}
+  :block/updated-at 1644761500461}
  {:block/name "git",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
@@ -160,21 +169,39 @@
  {:block/name "habilidades blandas",
   :block/created-at 1644717774601,
   :block/updated-at 1644717774601}
+ {:block/name "ilusión de libertad",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
  {:block/name "importante",
   :block/created-at 1644720524148,
   :block/updated-at 1644720524148}
  {:block/name "in-progress",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "interfaz gráfica de logseq",
+  :block/created-at 1644727773465,
+  :block/updated-at 1644762172519}
  {:block/name "la sociedad nació de un insulto",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
  {:block/name "later",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
+ {:block/name "libertad",
+  :block/created-at 1645144754503,
+  :block/updated-at 1645144754503}
+ {:block/name "libertad según engels",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
+ {:block/name "libertad según spinoza",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
  {:block/name "logseq",
   :block/created-at 1644104988371,
-  :block/updated-at 1644105032406}
+  :block/updated-at 1644762945340}
+ {:block/name "lugares - proyecto lr",
+  :block/created-at 1644105378864,
+  :block/updated-at 1644105378864}
  {:block/name "límites power platform",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
@@ -202,24 +229,21 @@
  {:block/name "no sueñes",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
- {:block/name "nombres de lugares - proyecto lr",
-  :block/created-at 1644105378864,
-  :block/updated-at 1644105378864}
- {:block/name "nombres de personajes - proyecto lr",
-  :block/created-at 1644105378865,
-  :block/updated-at 1644105378865}
+ {:block/name "no-importante",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
+ {:block/name "no-urgente",
+  :block/created-at 1645144754503,
+  :block/updated-at 1645144754503}
  {:block/name "notion",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
- {:block/name "nourgente",
-  :block/created-at 1644720524147,
-  :block/updated-at 1644720524147}
  {:block/name "now",
   :block/created-at 1644102579281,
   :block/updated-at 1644102579281}
  {:block/name "organización",
   :block/created-at 1644105378865,
-  :block/updated-at 1644105378865}
+  :block/updated-at 1644761946868}
  {:block/name "organización personal",
   :block/created-at 1644104435965,
   :block/updated-at 1644104774511}
@@ -229,48 +253,81 @@
  {:block/name "pauta pausada",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
+ {:block/name "pendientes - logseq",
+  :block/created-at 1644762144941,
+  :block/updated-at 1644762269403}
+ {:block/name "pendientes - organización",
+  :block/created-at 1644761946981,
+  :block/updated-at 1644761957995}
+ {:block/name "pendientes - productividad",
+  :block/created-at 1644764860297,
+  :block/updated-at 1644765130078}
  {:block/name "pensar en nuevos modos de pensar",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
+ {:block/name "personajes - proyecto lr",
+  :block/created-at 1644105378865,
+  :block/updated-at 1644852645310}
  {:block/name "planificar un año completo",
   :block/created-at 1644105378865,
   :block/updated-at 1644105378865}
  {:block/name "platzi",
   :block/created-at 1644717774598,
-  :block/updated-at 1644717774598}
+  :block/updated-at 1644721103828}
  {:block/name "plática entre diego ruzzarin y roxana kreimer",
   :block/created-at 1644717774598,
   :block/updated-at 1644717774598}
  {:block/name "por esta razón no encuentras trabajo",
   :block/created-at 1644181700808,
   :block/updated-at 1644201177272}
+ {:block/name "prioridades - logseq",
+  :block/created-at 1644727940890,
+  :block/updated-at 1644870145807}
+ {:block/name "prioridades - productividad",
+  :block/created-at 1644870166654,
+  :block/updated-at 1644870196003}
  {:block/name "priorización de tareas",
   :block/created-at 1644717774598,
   :block/updated-at 1644717774598}
  {:block/name "product design",
   :block/created-at 1644717774599,
-  :block/updated-at 1644717774599}
+  :block/updated-at 1644726048396}
  {:block/name "productividad",
   :block/created-at 1644102522840,
-  :block/updated-at 1644720511465}
+  :block/updated-at 1644765105181}
+ {:block/name "productividad autoreferencial",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
  {:block/name "propensión marginal al consumo",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
  {:block/name "proyecto lr",
   :block/created-at 1644105378865,
-  :block/updated-at 1644105378865}
+  :block/updated-at 1644852676994}
  {:block/name "proyectos personales",
   :block/created-at 1644717774601,
-  :block/updated-at 1644720143894}
+  :block/updated-at 1644759172772}
+ {:block/name "publicar grafo de logseq",
+  :block/created-at 1644727892574,
+  :block/updated-at 1644727892677}
  {:block/name "página web personal",
   :block/created-at 1644717774598,
   :block/updated-at 1644717774598}
+ {:block/name "queries de logseq",
+  :block/created-at 1644760260598,
+  :block/updated-at 1644762215650}
+ {:block/name "re",
+  :block/created-at 1645144754502,
+  :block/updated-at 1645144754502}
  {:block/name "readme",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
  {:block/name "respeto a pensar diferente",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
+ {:block/name "sincronización de logseq",
+  :block/created-at 1644727722131,
+  :block/updated-at 1644762130727}
  {:block/name "sincronización exterior en onedrive",
   :block/created-at 1644181700809,
   :block/updated-at 1644181700809}
@@ -279,10 +336,13 @@
   :block/updated-at 1644105378865}
  {:block/name "tareas pendientes",
   :block/created-at 1644104691531,
-  :block/updated-at 1644720249408}
+  :block/updated-at 1644762518659}
  {:block/name "tareas terminadas",
   :block/created-at 1644104776717,
   :block/updated-at 1644105151534}
+ {:block/name "temas de logseq",
+  :block/created-at 1645144754503,
+  :block/updated-at 1645144754503}
  {:block/name "the perfect life - isaac joshi",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
@@ -301,6 +361,10 @@
  {:block/name "web",
   :block/created-at 1644717774599,
   :block/updated-at 1644717774599}
+ {:block/name
+  "ximena sariñana_ ¿por qué crees lo que crees_ - diego ruzzarin",
+  :block/created-at 1645144754503,
+  :block/updated-at 1645144754503}
  {:block/name "yo",
   :block/created-at 1644105378864,
   :block/updated-at 1644105378864}
@@ -316,4 +380,4 @@
   :block/updated-at 1644105378863}
  {:block/name "índice",
   :block/created-at 1644102507791, 
-  :block/updated-at 1644719548755}]
+  :block/updated-at 1644758915256}]

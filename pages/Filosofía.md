@@ -1,1 +1,4 @@
 - [[Respeto a pensar diferente]]
+- [[Libertad]]
+- [[Filosofía experimental]]
+-

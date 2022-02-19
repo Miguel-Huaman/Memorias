@@ -1,0 +1,3 @@
+- ## DYOR
+	- "Do your own research" = “Haz tu propia investigación”
+	- Investiga antes de invertir.

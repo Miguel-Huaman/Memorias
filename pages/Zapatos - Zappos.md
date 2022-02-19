@@ -1,0 +1,7 @@
+- Zappos empezó con un producto simple y diminuto. Estaba diseñado para responder a la pregunta número uno: «¿Hay demanda suficiente para una experiencia superior en la compra de zapatos online?».
+  title:: Zapatos - Zappos
+	- Su hipótesis era que los consumidores estaban a punto y querían comprar zapatos online. Para probarlo, empezó a pedir a tiendas de zapatos locales si podía sacar fotos de sus inventarios. A cambio del permiso para hacer las fotos, él las colgaría online y volvería a comprar los zapatos al precio de la tienda si el consumidor los compraba online.
+- Si Zappos hubiera confiado en la investigación de mercado existente o hubiera realizado un estudio, habría podido analizar lo que los consumidores creen que quieren. Creando un producto, aunque simple, la empresa aprendió mucho más:
+	- 1. Obtuvo datos mucho más precisos sobre la demanda de los consumidores, puesto que observaba el comportamiento real de los clientes y no formulaba preguntas hipotéticas.
+	- 2. Se puso en posición de interactuar con consumidores reales y de aprender más sobre sus necesidades. Por ejemplo, el plan de negocios podría exigir descuentos en el precio, pero ¿cómo afecta la estrategia de descuentos a las percepciones que tienen los consumidores sobre los productos?
+	- 3. Le permitió sorprenderse cuando los consumidores se comportaron de forma inesperada, revelando información que Zappos podría no haber preguntado. Por ejemplo, ¿Qué pasa si los clientes devuelven los zapatos?

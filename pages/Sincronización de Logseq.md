@@ -1,1 +1,2 @@
-- DONE #Logseq Sincronizar con [[Git]] y [[GitHub]]
+- Sincronización de Logseq con [[Git]] y [[GitHub]]
+-

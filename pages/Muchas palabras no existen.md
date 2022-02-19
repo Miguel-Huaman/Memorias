@@ -1,2 +1,2 @@
-- > _**Si no lees libros, vas a decir que muchas palabras no existen.**
-  Diego Ruzzarin_
+- > **Si no lees libros, vas a decir que muchas palabras no existen.**
+  (Ruzzarin , 2022)

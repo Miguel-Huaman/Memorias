@@ -1,0 +1,3 @@
+- > **Uno solo es "realmente libre" a medida que entiende la cosas...
+  Tú puedes ver 2 puertas y crees que eres libre de escoger entre las 2 puertas. Vas y escoges la puerta "B". Está abierta y pasas. Lo que no sabías es que la puerta "A" estaba cerrada. Pero como nunca trataste. Te quedas con la idea de que fuiste libre en escoger.**
+  Ruzzarin, D. (2022)

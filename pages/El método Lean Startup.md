@@ -1,3 +1,17 @@
+- Eric Ries (2011)
+- ## Teoría
+	- [[¿Qué es una Startup?]]
+	- [[Experimentando con el producto]]
+-
+- ## Casos
+	- [[Mensajería instantánea - IMVU]]
+	- [[Zapatos - Zappos]]
+	- [[Voluntariado - Hewlett-Packard]]
+	- [[Galería de fotos - Kodak Galery]]
+	- [[Lavandería - VLS]]
+	- [[Agencia de protección al consumidor - CFPB]]
+	- [[Facebook]]
+-
 - ## Crear, Medir y Aprender
 - La actividad fundamental de una startup es:
 	- Convertir ideas en productos.
@@ -26,7 +40,6 @@
 	- Intuit invirtió en sistemas que aumentaban la velocidad a la cual se podían realizar las pruebas, desplegarlas y analizarlas.
 	- Como dice Cook: «Desarrolar esos sistemas de experimentación es responsabilidad del directivo sénior; tiene que introducirlos el líder. Se trata de que los líderes dejen de jugar a ser el César y meter baza en todas las ideas y, en su lugar, creen la cultura y los sistemas necesarios para que los equipos puedan moverse e innovar a la velocidad del sistema de experimentación».
 	- **No puedes llevar el aprendizaje al banco; no puedes gastarlo o invertirlo.** No se lo puedes dar a tus clientes ni devolvérselo a tus socios. ¿Es una sorpresa que el conocimiento tenga tan mala prensa en los círculos emprendedores y de negocios?.
-- HABLANDO CON LOS CLIENTES
 -
 - cuando dices que el cielo es el límite
 - creo que sí es cierto

@@ -1,0 +1,9 @@
+- Ley de Metcalfe: el valor de una red de comunicaciones es proporcional al cuadrado del número de usuarios del sistema.
+	- Imagine un mundo en el que usted es el propietario del único teléfono; no tendría valor. Sólo si otra gente también tiene teléfono, éste adquiere un valor.
+- ## Lanzamiento del producto
+- Personalmente, estaba preocupado de que la mala calidad del producto pudiera manchar mi reputación como ingeniero. La gente pensaría que no sé cómo crear un producto de calidad. Todos temíamos manchar la marca IMVU; al fin y al cabo, estábamos cobrando dinero a la gente por un producto que no funcionaba demasiado bien. Todos nos imaginábamos los titulares de periódico condenándonos: «Unos empresarios ineptos crean un producto espantoso».
+- Y entonces, ¡no pasó nada! Resultó que nuestros miedos eran infundados, porque nadie probó nuestro producto.
+- ## Hablando con los clientes
+- Los consumidores no nos podían decir qué querían; la mayoría, al fin y al cabo, jamás había oído hablar de avatares en 3D
+- «Oye, viejo, no lo entiendes. ¿Qué sentido tiene invitar a mis amigos antes de saber si esto mola?»
+-

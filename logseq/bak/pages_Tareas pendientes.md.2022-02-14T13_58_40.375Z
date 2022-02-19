@@ -1,0 +1,17 @@
+public:: false
+
+- ## ¡Importante y Urgente! 🧯🔥
+	- {{query (and [[Importante]] [[Urgente]] )}}
+	  query-sort-by:: block
+	  query-table:: true
+	  query-sort-desc:: false
+- ## Importante pero no urgente ✨🤩✨
+	- {{query (and [[Importante]] [[No-Urgente]] )}}
+	  query-table:: true
+- ## No importante pero sí urgente 💪👷‍♂️
+	- {{query (and [[No-Importante]] [[Urgente]] )}}
+	  query-table:: true
+- ## Ni importante ni urgente 🙈
+	- {{query (and [[No-Importante]] [[No-Urgente]] )}}
+	  query-table:: true
+-

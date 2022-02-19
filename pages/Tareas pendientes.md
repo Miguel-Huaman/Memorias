@@ -1,18 +1,17 @@
 public:: false
 
-- {{query (and (property importancia alta) (property urgencia alta))}}
-  query-table:: true
--
-- {{query (and (property importancia alta) (property urgencia baja))}}
-  query-table:: true
--
-- {{query (and [[Importante]] [[Urgente]] )}}
-  query-sort-by:: block
-  query-table:: true
-  query-sort-desc:: false
--
-- {{query (and [[Importante]] [[No-Urgente]] )}}
-  query-table:: true
--
-- query-table:: true
+- ## No son importantes pero sí son **urgentes** 💩
+	- {{query (and [[No-Importante]] [[Urgente]] )}}
+	  query-table:: true
+- ## ¡**Importantes** y **Urgentes**! 🧯🔥
+	- {{query (and [[Importante]] [[Urgente]] )}}
+	  query-sort-by:: block
+	  query-table:: true
+	  query-sort-desc:: false
+- ## **Importantes** pero no urgentes ✨🤩✨
+	- {{query (and [[Importante]] [[No-Urgente]] )}}
+	  query-table:: true
+- ## Ni importantes ni urgentes 🙈
+	- {{query (and [[No-Importante]] [[No-Urgente]] )}}
+	  query-table:: true
 -

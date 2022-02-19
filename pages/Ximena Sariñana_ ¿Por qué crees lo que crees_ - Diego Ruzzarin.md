@@ -1,0 +1,8 @@
+- {{youtube https://www.youtube.com/watch?v=oeLyMIpLjiM}}
+	- {{youtube-timestamp 02:49}}
+		- [[Libertad según Engels]]
+	- {{youtube-timestamp 08:35}}
+		- [[Libertad según Spinoza]]
+	- {{youtube-timestamp 12:19}}
+		- [[Actualizar la definición de "bien y mal"]]
+-

@@ -1,9 +1,12 @@
-- #Logseq Escribir más [[Atajos de Logseq]] #Importante #No-Urgente
-- #Logseq Queries en Logseq #Importante #No-Urgente
--
-- [[Sincronización de Logseq]]
-- [[Interfaz gráfica de Logseq]]
-- [[Publicar grafo de Logseq]]
+- El paradigma es el "Outline".
+- ## Guías
+	- [[Sincronización de Logseq]]
+	- [[Interfaz gráfica de Logseq]]
+	- [[Publicar grafo de Logseq]]
+	- [[Funcionalidades de Logseq]]
+	- [[Queries de Logseq]]
+	- [[Atajos de Logseq]]
 -
 - ***
 - [[Pendientes - Logseq]]
+- [[Prioridades - Logseq]]

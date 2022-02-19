@@ -1,2 +1,4 @@
-- Filosofía científicamente informada
-  title:: Filosofía experimental
+title:: Filosofía experimental
+
+- ## Definición
+	- Filosofía científicamente informada

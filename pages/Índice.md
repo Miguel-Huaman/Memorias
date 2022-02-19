@@ -1,7 +1,7 @@
-- ## Mi filosofía de vida
+- ## Respira y recuerda...
 	- Escribe todo lo que no desees olvidar.
 	- Planifica todo lo que desees alcanzar.
-	- #Filosofía Establecer metas #Importante #No-Urgente
+-
 - ## Temas que me gusta conversar
 	- [[Productividad]]
 	- [[Web]]
@@ -11,6 +11,7 @@
 -
 - ## Temas de los que no sé nada pero me gusta escuchar
 	- [[Blockchain]]
+	- [[Emprendimiento]]
 	- [[Geopolítica]]
 	- [[Economía]]
 -

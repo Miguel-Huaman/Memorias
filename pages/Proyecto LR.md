@@ -1,4 +1,6 @@
 public:: false
 
-- [[Nombres de lugares - Proyecto LR]]
-- [[Nombres de personajes - Proyecto LR]]
+- [[Lugares - Proyecto LR]]
+- [[Personajes - Proyecto LR]]
+- [[Frases - Proyecto LR]]
+- [[Diálogos - Proyecto LR]]
